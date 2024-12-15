@@ -13,9 +13,9 @@ body {
 .header img {
   width: 100%;
 }
-.header .info {
+/* .header .info { 
   font-family: fantasy, cursive;
-}
+} */
 
 @media (max-width: 768px) {
   .header {
@@ -35,6 +35,7 @@ body {
 }
 .task-row-wrapper {
   display: flex;
+  padding: 20px 0;
 }
 ul {
   margin: 0;
